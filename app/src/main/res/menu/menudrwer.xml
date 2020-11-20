@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="searching">
+        <menu>
+            <item
+                android:id="@+id/bise"
+
+                android:title="BINARY SEARCH" />
+        </menu>
+    </item>
+    <item android:title="sorting algorithms">
+        <menu>
+            <item
+                android:id="@+id/buso"
+
+                android:title="BUBBLESORT" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/loogout"
+        android:title="stack" >
+        <menu >
+            <item
+                android:id="@+id/crst"
+
+                android:title="STACK" />
+        </menu>
+    </item>
+</menu>
